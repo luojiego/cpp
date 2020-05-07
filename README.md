@@ -3,4 +3,4 @@
 
 # 编译环境
 机器：**Ubuntu 18.04 server**
-gcc：**gcc (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0**
+GCC：**gcc (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0**
